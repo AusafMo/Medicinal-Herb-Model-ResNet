@@ -1,4 +1,5 @@
 🙋‍♂️ **The Training notebook(s) used to train/FineTune ResNet50 on Mendley Medicinal leaf dataset** 
+## 2nd One os latest btw
 ## What is this? :
 - The Project aims to solve the problem of identification of medicinal herbs.
 - The Machine Learning Model uses ResNet, with a validation accuracy of 98% and testing accuracy of 96%.
