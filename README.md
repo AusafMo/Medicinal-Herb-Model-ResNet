@@ -1,5 +1,9 @@
 🙋‍♂️ **The Training notebook(s) used to train/FineTune ResNet50 on Mendley Medicinal leaf dataset** 
 ### 2nd One is latest btw
+**The Code for the model serving can be found at the following repo links, There are two repos for Front-End and Back-End Components**
+<br>
+- For Backend App see <a href = "https://github.com/AusafMo/AushadhHub-BackEnd"> Backend Repo </a>
+- For Front-End see <a href = "https://github.com/AusafMo/AushadHubFrontEnd"> Training Notebook </a>
 ## What is this? :
 - The Project aims to solve the problem of identification of medicinal herbs.
 - The Machine Learning Model uses ResNet, with a validation accuracy of 98% and testing accuracy of 96%.
